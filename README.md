@@ -1,4 +1,6 @@
-nobody-look-at-this
+Webcompat Tests
 ===================
 
-seriously, not for looking at
+Nothing to see here, just a test repo to run functional tests against.
+
+🍀
